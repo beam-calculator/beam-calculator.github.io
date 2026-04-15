@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://beam-calculator.github.io
+Sitemap: https://beam-calculator.github.io/sitemap.xml
