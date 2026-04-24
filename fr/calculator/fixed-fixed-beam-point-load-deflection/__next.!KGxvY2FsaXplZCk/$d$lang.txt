@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[39756,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
-:HL["/_next/static/chunks/0sq~j2h8lrcxv.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0sq~j2h8lrcxv.css","precedence":"next"}]],["$","html",null,{"lang":"fr","children":["$","body",null,{"className":"ibm_plex_mono_5523a5ca-module__5PYXXG__variable","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3y-MfhWY6VF9geSfaZV17"}
+:HL["/_next/static/chunks/0c.qf2o3.~u-l.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0c.qf2o3.~u-l.css","precedence":"next"}]],["$","html",null,{"lang":"fr","children":["$","body",null,{"className":"ibm_plex_mono_5523a5ca-module__5PYXXG__variable","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JqA4PIa8yTHjnk2yHzoeQ"}
